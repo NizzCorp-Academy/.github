@@ -1,6 +1,10 @@
 ![NizzCorp GitHub stats](https://github-readme-stats.vercel.app/api?username=nizzcorp&show_icons=true&theme=dark)
 # 🎓 NizzCorp Academy · Mini Projects
 
+📎 Website: https://nizzcorp-academy.github.io
+
+🌐 GitHub Repo: https://github.com/NizzCorp-Academy
+
 This repository contains **mini projects** built by learners and teams at [NizzCorp Academy](https://nizzcorp.com/academics) as part of their hands-on learning experience.
 
 These projects are developed during coursework to reinforce practical skills and explore real-world use cases across various technologies.
